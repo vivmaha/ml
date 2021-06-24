@@ -4,10 +4,10 @@ Place to learn ML
 
 - [x] AWS Training's [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
 - [x] Linear Regression (univariate)
-  - See ./src/001-linear-regresion.py
+  - See [001-linear-regresion.py](src/001-linear-regression.py)
 - [x] Linear Regression (multi variate)
-  - See ./src/002-multiple-linear-regression.py
-  - See ./src/003-multiple-linear-regression-2.py
+  - See [002-multiple-linear-regression.py](src/002-multiple-linear-regression.py)
+  - See [003-multiple-linear-regression-2.py](src/003-multiple-linear-regression-2.py)
 - [ ] Logistical Regression
 - [ ] Unsupervised learning (detect topics?)
 - [ ] EDA
