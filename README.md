@@ -9,6 +9,10 @@ Place to learn ML
   - See [002-multiple-linear-regression.py](src/002-multiple-linear-regression.py)
   - See [003-multiple-linear-regression-2.py](src/003-multiple-linear-regression-2.py)
 - [ ] Logistical Regression
+  - [x] Binary
+    - See [004-logistic-regession-binary.py](src/004-logistic-regession-binary.py)
+  - [ ] Multinomial
+  - [ ] Ordinal
 - [ ] Unsupervised learning (detect topics?)
 - [ ] EDA
   - [ ] Using pandas (python) for EDA on features/target fields
@@ -19,7 +23,6 @@ Place to learn ML
     - [ ] nominal small N
     - [ ] nominal large N(ordinal + nominal)
     - [ ] scaling & normalizing
-    - [ ] sklearn kit
 - [ ] Text
   - [ ] tiff
 - [ ] neural networks
@@ -37,3 +40,18 @@ Place to learn ML
   - [ ] logical (precision, recall, R^2, accuracy)
   - [ ] linear regression (sum squares)
 - [ ] Get [AWS Certified Machine Learning – Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty) certificate
+
+### Tools
+
+- [ ] Python
+  - Data manipulation
+    - [ ] numpy
+    - [ ] pandas
+  - Data Vizualization
+    - [ ] matplotlib
+    - [ ] seaborn
+  - Data Science Libraries
+    - [ ] sklearn
+  - Higher level platforms
+    - [ ] Jupyter Notebook
+    - [ ] AWS Sagemaker

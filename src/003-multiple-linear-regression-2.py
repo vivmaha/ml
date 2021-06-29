@@ -41,11 +41,11 @@ feature_indices = [2, 8, 9]
 feature_names = np.array(data.feature_names)[feature_indices]
 X = X[feature_indices, :]
 
-train_count = 20
-X_train = X[:, :-train_count].transpose()
-X_test = X[:, -train_count:].transpose()
-y_train = y[:-train_count]
-y_test = y[-train_count:]
+test_count = 20
+X_train = X[:, :-test_count].transpose()
+X_test = X[:, -test_count:].transpose()
+y_train = y[:-test_count]
+y_test = y[-test_count:]
 
 # Train
 regr = linear_model.LinearRegression()
