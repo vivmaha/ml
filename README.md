@@ -13,7 +13,13 @@ Place to learn ML
     - See [004-logistic-regession-binary.py](src/004-logistic-regession-binary.py)
   - [ ] Multinomial
   - [ ] Ordinal
-- [ ] Unsupervised learning (detect topics?)
+- [ ] Unsupervised learning
+  - Clustering
+    - Hierarchical
+      - [ ] Agglomerative
+    - Paritional
+      - [x] K-means (elbow method for picking cluster size)
+        - See [005-clustering-k-means.py](src/005-clustering-k-means.py)
 - [ ] EDA
   - [ ] Using pandas (python) for EDA on features/target fields
   - [ ] Sagemaker
