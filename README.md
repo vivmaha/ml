@@ -21,7 +21,8 @@ Place to learn ML
       - [x] K-means (elbow method for picking cluster size)
         - See [005-clustering-k-means.py](src/005-clustering-k-means.py)
 - [ ] EDA
-  - [ ] Using pandas (python) for EDA on features/target fields
+  - [x] Using pandas (python) for EDA on features/target fields
+    - See [006-exploratory-data-analysis.py](src/006-exploratory-data-analysis.py)
   - [ ] Sagemaker
 - [ ] Feature Engineering
   - [ ] Using pandas to encode categorial variables
